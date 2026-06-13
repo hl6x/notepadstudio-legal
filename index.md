@@ -1,5 +1,5 @@
 # Privacy Policy for Notebook Studio
-**Last Updated: April 2026**
+**Last Updated: May 2026**
 
 Notebook Studio is committed to protecting your privacy. This policy explains how we handle data.
 
